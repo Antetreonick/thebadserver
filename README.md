@@ -1,1 +1,1 @@
-# thebadserver
+# thebadserver for chat things
